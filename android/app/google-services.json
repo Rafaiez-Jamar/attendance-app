@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "405098212881",
+    "firebase_url": "https://attendanceapp-fdfdf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "attendanceapp-fdfdf",
+    "storage_bucket": "attendanceapp-fdfdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405098212881:android:c9909a536c2a2b7e254bb0",
+        "android_client_info": {
+          "package_name": "com.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD679lmyRGVYMTwiV2y0w78OM8i7e3VtLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405098212881:android:6f6402116e51a1bb254bb0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD679lmyRGVYMTwiV2y0w78OM8i7e3VtLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
